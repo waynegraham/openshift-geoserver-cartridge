@@ -1,10 +1,10 @@
 Name: geoserver
 Cartridge-Short-Name: GEOSERVER
 Architecture: noarch
-Display-Name: GEO SERVER 2.3.3
+Display-Name: GEO SERVER 2.6.1
 Description: "GeoServer is an open source software server written in Java that allows users to share and edit geospatial data. Designed for interoperability, it publishes data from any major spatial data source using open standards."
-Version: '2.3.3'
-Versions: [2.3.3]
+Version: '2.6.1'
+Versions: [2.6.1]
 Cartridge-Version: 0.1.0
 Cartridge-Vendor: worldline
 License: MIT License
